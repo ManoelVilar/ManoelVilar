@@ -1,5 +1,20 @@
 👨🏻‍💻 Manoel Vilar
+<div class="container">
+      <div class="typed-out">Olá! Me chamo Manoel vilar </div>
+.typed-out {
+  overflow: hidden;
+  border-right: .15em solid orange;
+  font-size: 1.6rem;
+  width: 0;
 
+ @keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+}
+</div>
+   
+        
 Desenvolvedor Python | Estudante de ADS | Foco em Dados e Automação
 
 Me chamo Manoel Vilar, tenho 29 anos e sou de Campina Grande - PB. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend, automação de processos e análise de dados.
