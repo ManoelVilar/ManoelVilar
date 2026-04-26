@@ -7,7 +7,7 @@
         
 Desenvolvedor Python | Estudante de ADS | Foco em Dados e Automação
 
-Me chamo Manoel Vilar, tenho 29 anos e sou de Campina Grande - PB. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend, automação de processos e análise de dados.
+Tenho 29 anos e sou de Campina Grande - PB. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend, automação de processos e análise de dados.
 
 Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando evoluir constantemente por meio de estudos, prática e desenvolvimento de projetos.
 
