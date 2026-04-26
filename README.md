@@ -1,19 +1,10 @@
-👨🏻‍💻 Manoel Vilar
-<div class="container">
-      <div class="typed-out">Olá! Me chamo Manoel vilar </div>
-.typed-out {
-  overflow: hidden;
-  border-right: .15em solid orange;
-  font-size: 1.6rem;
-  width: 0;
-
- @keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-}
+👨🏻‍💻 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Olá,+mundo!;Bem-vindo+ao+meu+perfil! Me chamo Manoel Vilar">
+  </a>
 </div>
-   
+  
         
 Desenvolvedor Python | Estudante de ADS | Foco em Dados e Automação
 
