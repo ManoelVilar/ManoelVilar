@@ -97,15 +97,18 @@ Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
 <img 
-    aling="left"
-    alt="Arduino"
+    align="left" 
+    alt="Arduino" 
     title="Arduino"
-    width="30px"
-    style="ádding-right: 10px;"
-    src="<img src="<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAADbklEQVR4nO1XS6hVVRj+Mh8DyUcoSXTxCRoNHGTlyB6jMiTSUIe+UBPspQhRdAq5+//3vYmd6/7/3fGK1CAHV+FeRRTxUYhWKhg3B+IgqKEaUUR4H9mVtc5N3Huvvc/Z504crA8WZ3DW+v7vf661AQ8PDw8PDw8PD4+HFxK+DOUuKPVD+RaE/rW/St9BuQINF7bMrTQPwh9B6VyKux9CVcT0UuvCY34eShehPFK4hP6DUq8V0yz2hU9C+dCo4Ab8fAESPFdOvNImCA82JE8a+gfCO1GpjMvlHRl5BBJshfCfJbkHIbyxOfHC60uRZ9dJHAgfy/D2VCZC+euxcdPmYvFR8EIm8qZEhI8gCl5FtX0mqtVJiIIFlkz5xxxjl6E0/T5vZ+dkCJ/NKcFLNuOmBA13d/sTiOlNKJ9yZuLLcElR6aRr/m8Iv17otNIqCN10GPveCjeiXGKUf4fyWltWuQGldY6Ani+aNunIF4u/b6hjVj3qGZHHEAXfOJy7Btnd1hR3zFuy58MXHZE0ozJRb4dRBjWeaqPeuCGvovb5DIf9EbucjU8/pHi+cDhg5/yDm15DWZjmdWfi//VzojeaccD+Z3okEdyfspuEbic2paOUJyrDs7stpyduo6tzblYcN+aNaXHq/1suLwcSm0zzteKAdSLoc4zAXnd0uTGvmVBJrgGHUf4tmYGO+WgFShsK6n99/jnOD0hEy1IO/OoyfC7V6dtKi4/ojcIb3N6otKK0A0pByoEzrk07UgZ/yZRREWJeDaGhlOA7EB5Ojeche3c0i+49j0P5jwRHRO/D2XzpPhD6qvBtY2D+F97leJjdtU7Vb+x0NoYh/EHhJWZQq02A0IlMUKr8lPuAma+ZtNPR3APKS+1r0VkuD5Sg8Ic5JfUtlJ51c4cL7a2bHQZ78j3eu3calG84DN2Bch+UPobQdktiZ7pLlM3E2xlukyWTFfeZK1AKLbfQJ6NPj2GHjuuoVqYUZg219kXOOd7c+gtxsDyXO+K37LO7FW4xmpr9eIppTm6E89fxpt43Zjwrny7HTf2IOmejFOrv9/fqn3iFkbkC4ZWluOsfNmvsu6hR1IXetVpaRqUyHkqvQPkzKB2Ecg+U9kP5HQg/jbEi4mesSOHuUe6DEPrUvo57eh4dM7+Hh4eHh4eHhwceWtwD9I5b8m83ILoAAAAASUVORK5CYII=" alt="arduino">"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
+<path fill="#009688" d="M35.7,34.7c-7.7,0-13.2-8.9-13.4-9.3l-0.6-1l0.6-1C22.5,22.9,28,14,35.7,14C41.4,14,46,18.6,46,24.3 S41.4,34.7,35.7,34.7z M26.4,24.3c1.5,2,5.1,6.3,9.2,6.3c3.5,0,6.3-2.8,6.3-6.3c0-3.5-2.8-6.3-6.3-6.3C31.5,18,27.9,22.3,26.4,24.3 z"></path><path fill="#009688" d="M12.3,34.7C6.6,34.7,2,30,2,24.3S6.6,14,12.3,14c7.9,0,13.2,8.9,13.4,9.3l0.6,1l-0.6,1 C25.5,25.7,20,34.7,12.3,34.7z M12.3,18C8.8,18,6,20.8,6,24.3c0,3.5,2.8,6.3,6.3,6.3c4.2,0,7.8-4.3,9.3-6.3 C20.2,22.3,16.6,18,12.3,18z"></path><path fill="#009688" d="M10 23h6v2h-6V23zM32 23h6v2h-6V23z"></path><path fill="#009688" d="M34,21h2v6h-2V21z"></path>
+</svg>" 
 />
+
+
     
 <br/>
 <br/>
