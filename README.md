@@ -89,6 +89,7 @@ Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 
 />
+
 <img 
     align="left" 
     alt="Python" 
@@ -97,7 +98,9 @@ Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/be571735-0d28-4176-8896-e3c5ddfe660f" />
+
+
+<img width="100" height="10" alt="image" src="https://github.com/user-attachments/assets/be571735-0d28-4176-8896-e3c5ddfe660f" />
 
 
 
