@@ -100,11 +100,11 @@ Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando
 
 <img 
     aling="left"
-    alt="arduino"
+    alt="Arduino"
     title="Arduino"
     width="30px"
     style="ádding-right: 10px;"
-    src="https://icons8.com.br/icon/Of4lZV2lwBQI/arduino"
+    src="https://icons8.com.br/icon/Of4lZV2lwBQI/arduino.sgv"
 />
     
 <br/>
