@@ -98,7 +98,7 @@ Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando
 />
 
 
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/be571735-0d28-4176-8896-e3c5ddfe660f" />
+<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/be571735-0d28-4176-8896-e3c5ddfe660f" />
 
 
 
