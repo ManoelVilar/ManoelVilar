@@ -87,6 +87,7 @@ Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+
 />
 <img 
     align="left" 
@@ -97,6 +98,15 @@ Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<img 
+    aling="left"
+    alt="arduino"
+    title="Arduino"
+    width="30px"
+    style="ádding-right: 10px;"
+    src="https://icons8.com.br/icon/Of4lZV2lwBQI/arduino"
+/>
+    
 <br/>
 <br/>
 
