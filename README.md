@@ -4,15 +4,15 @@
   </a>
 </div>
 
-<h3 font-family: monospace;">
+<h3 style="font-family: monospace;">
 Desenvolvedor Python | Estudante de ADS | Foco em Dados e Automação
 </h3>
 
-<p font-family: monospace;">
+<p style="font-family: monospace;">
 Tenho 29 anos e sou de Campina Grande - PB. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend, automação de processos e análise de dados.
 </p>
 
-<p font-family: monospace;">
+<p style="font-family: monospace;">
 Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando evoluir constantemente por meio de estudos, prática e desenvolvimento de projetos.
 </p>
    
