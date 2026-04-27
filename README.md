@@ -136,7 +136,7 @@ Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando
 
 </p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?color_snake=%233776AB&color_dots=%23161B22%2C%230E4429%2C%23006D32%2C%2326A641%2C%2339D353">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManoelVilar/ManoelVilar/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManoelVilar/ManoelVilar/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ManoelVilar/ManoelVilar/output/github-contribution-grid-snake.svg">
 </picture>
