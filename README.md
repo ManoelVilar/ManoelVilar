@@ -131,7 +131,7 @@ Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando
      align="left" 
      alt="GitHub Stats" 
      height="200" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelVilar&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelVilar&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=9"/>
      
 
 </p>
