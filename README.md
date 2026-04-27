@@ -25,7 +25,7 @@ Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/ManoelVilar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+           />
     </a>
 </p>
 
@@ -56,7 +56,7 @@ Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+  />
 
 
 
@@ -133,8 +133,7 @@ Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando
      align="left" 
      alt="GitHub Stats" 
      height="200" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelVilar&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
- />
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelVilar&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </p>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManoelVilar/ManoelVilar/output/github-contribution-grid-snake-dark.svg">
