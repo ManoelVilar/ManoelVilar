@@ -4,13 +4,13 @@
   </a>
 </div>
 
-<h2 style="color:#00FF00;">      
-Desenvolvedor Python | Estudante de ADS | Foco em Dados e Automação
+<h3 style="color:#00FF00;"   
+<p> </p> Desenvolvedor Python | Estudante de ADS | Foco em Dados e Automação 
 
 Tenho 29 anos e sou de Campina Grande - PB. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend, automação de processos e análise de dados.
 
 Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando evoluir constantemente por meio de estudos, prática e desenvolvimento de projetos.
-</h2>      
+</h3>      
 <p align="left">
    
 <a href="https://github.com/ManoelVilar?tab=repositories&sort=stargazers">
