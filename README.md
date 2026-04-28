@@ -115,6 +115,13 @@ Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando
   src="https://github.com/user-attachments/assets/6e774af0-5771-44e7-b81b-caa2d7eab5b8" 
 />
 
+<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" 
+  alt="C++ 
+  Logo" 
+  width="30"
+  height="30" 
+  />
+
 
 
     
