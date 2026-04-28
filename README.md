@@ -40,7 +40,7 @@ Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="20px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -48,7 +48,7 @@ Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="20px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -56,7 +56,7 @@ Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="20px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
   />
@@ -67,7 +67,7 @@ Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando
     align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
-    width="20px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
@@ -77,7 +77,7 @@ Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando
     align="left" 
     alt="PHP" 
     title="PHP"
-    width="20px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
@@ -86,7 +86,7 @@ Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando
     align="left" 
     alt="Git" 
     title="Git"
-    width="20px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -95,22 +95,22 @@ Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando
     align="left" 
     alt="Python" 
     title="Python"
-    width="20px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 
 <img 
-  width="20"
-  height="20" 
+  width="30"
+  height="30" 
   alt="image" 
   src="https://github.com/user-attachments/assets/be571735-0d28-4176-8896-e3c5ddfe660f" 
 />
 
 <img 
-  width="20"
-  height="20" 
+  width="30"
+  height="30" 
   alt="image" 
   src="https://github.com/user-attachments/assets/6e774af0-5771-44e7-b81b-caa2d7eab5b8" 
 />
