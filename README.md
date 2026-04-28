@@ -102,6 +102,7 @@ Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando
 
 
 <img 
+  align="left" 
   width="30"
   alt="image" 
   style="padding-right: 10px;" 
@@ -109,13 +110,16 @@ Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando
 />
 
 <img 
+  align="left" 
   width="30"
   alt="image" 
   style="padding-right: 10px;" 
   src="https://github.com/user-attachments/assets/6e774af0-5771-44e7-b81b-caa2d7eab5b8" 
 />
 
-<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" 
+<img 
+  align="left" 
+  src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" 
   alt="C++ 
   Logo" 
   width="30"
