@@ -104,12 +104,14 @@ Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando
 <img 
   width="30"
   alt="image" 
+  style="padding-right: 10px;" 
   src="https://github.com/user-attachments/assets/be571735-0d28-4176-8896-e3c5ddfe660f" 
 />
 
 <img 
   width="30"
   alt="image" 
+  style="padding-right: 10px;" 
   src="https://github.com/user-attachments/assets/6e774af0-5771-44e7-b81b-caa2d7eab5b8" 
 />
 
@@ -117,7 +119,7 @@ Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando
   alt="C++ 
   Logo" 
   width="30"
-  height="30" 
+  style="padding-right: 10px;" 
   />
 
 
