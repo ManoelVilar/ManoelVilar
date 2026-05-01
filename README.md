@@ -139,11 +139,6 @@ Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManoelVilar&show_icons=true&theme=merko&locale=pt-br"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelVilar&theme=merko&layout=compact"/>
   
-<img 
-     align="left" 
-     alt="GitHub Stats" 
-     height="200" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelVilar&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9"/>
      
 
 </p>
