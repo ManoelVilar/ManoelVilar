@@ -140,7 +140,7 @@ Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ManoelVilar&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" />
+    src="https://github-readme-stats.vercel.app/api?username=ManoelVilar&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br"/>
 
   
 <img 
