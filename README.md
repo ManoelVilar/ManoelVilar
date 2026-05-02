@@ -135,6 +135,17 @@ Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando
 ###  Estatísticas
 
 <p>
+
+  <div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ManoelVilar&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" alt="streak"/>
+
+<br/><br/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ManoelVilarc&show_icons=true&theme=dark&ring_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najuiamnc&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
+
+</div>
   <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=ManoelVilar&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br"/> 
   <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelVilar&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9"/>     
 
