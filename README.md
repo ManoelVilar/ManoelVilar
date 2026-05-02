@@ -34,7 +34,7 @@ Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+###  Linguagens e Tecnologias
 
 <img 
     align="left" 
