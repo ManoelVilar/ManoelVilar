@@ -142,8 +142,9 @@ Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando
 
 <br/><br/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ManoelVilarc&show_icons=true&theme=dark&ring_color=c9a84c&icon_color=c9a84cc&text_color=cccccc&bg_color=0d0d0dd&border_color=2a2a2a&count_private=true"/>
-<img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelVilar&theme=dark&ring=compact&custom_title=Tecnologias&langs_count=9"/>    
+<img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelVilar&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+
+<br/><br/>
 
 </div>
   
