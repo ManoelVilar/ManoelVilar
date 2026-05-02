@@ -138,8 +138,8 @@ Tenho interesse em utilizar a tecnologia para resolver problemas reais, buscando
 
   <div align="left">
 
-<img src="https://streak-stats.demolab.com?user=ManoelVilar&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" alt="streak"/>
-<img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelVilar&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+<img src="https://streak-stats.demolab.com?user=ManoelVilar&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" alt="streak"/>
+<img align="left" alt="GitHub Stats" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelVilar&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 
 
 
