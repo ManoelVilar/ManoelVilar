@@ -1,13 +1,32 @@
-### Manoel Vilar
+## Manoel Vilar
 
-Estudante de Análise e Desenvolvimento de Sistemas em Campina Grande - PB.
-Trabalho com Python, com foco em desenvolvimento backend, automação de processos e análise de dados.
+Desenvolvedor Python e estudante de Análise e Desenvolvimento de Sistemas em Campina Grande - PB.
+Gosto de backend, automação de processos, análise de dados e, de vez em quando, de mexer com hardware.
 
-**Tecnologias:** Python, C++, PHP, JavaScript, HTML, CSS, Bootstrap, Firebase, WebRTC, Git
+```python
+manoel = {
+    "local": "Campina Grande - PB",
+    "estudando": "Análise e Desenvolvimento de Sistemas",
+    "foco": ["backend", "automação", "dados"],
+}
+```
 
-**Projetos em destaque:**
+### Projetos
 
-- [party](https://github.com/ManoelVilar/party) — espaço virtual em pixel art isométrica com voz e vídeo por proximidade, no estilo do Gather. [Jogar](https://manoelvilar.github.io/party/)
-- [arduino-python-sonar](https://github.com/ManoelVilar/arduino-python-sonar) — sonar com varredura automática usando Arduino, sensor ultrassônico e interface gráfica em Python.
+| Projeto | O que é | Tecnologias |
+|---|---|---|
+| [party](https://github.com/ManoelVilar/party) | Espaço virtual em pixel art isométrica com voz e vídeo por proximidade, no estilo do Gather. [Jogar](https://manoelvilar.github.io/party/) | JavaScript, WebRTC, Firebase |
+| [arduino-python-sonar](https://github.com/ManoelVilar/arduino-python-sonar) | Sonar com varredura automática usando Arduino, sensor ultrassônico e interface gráfica | Python, C++, Arduino |
 
-**Contato:** [LinkedIn](https://www.linkedin.com/in/manoelvilar/)
+### Tecnologias
+
+| Área | |
+|---|---|
+| Linguagens | Python, JavaScript, C++, PHP |
+| Web | HTML, CSS, Bootstrap |
+| Tempo real e nuvem | WebRTC, Firebase |
+| Ferramentas | Git, GitHub Actions |
+
+### Contato
+
+[LinkedIn](https://www.linkedin.com/in/manoelvilar/)
