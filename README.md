@@ -20,11 +20,11 @@ manoel = {
 
 ### Tecnologias
 
-| Área | |
+| Área | Tecnologias |
 |---|---|
 | Linguagens | Python, JavaScript, C++, PHP |
 | Web | HTML, CSS, Bootstrap |
-| Tempo real e nuvem | WebRTC, Firebase |
+| Nuvem | WebRTC, Firebase |
 | Ferramentas | Git, GitHub Actions |
 
 ### Contato
