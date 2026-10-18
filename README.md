@@ -24,7 +24,7 @@ manoel = {
 |---|---|
 | Linguagens | Python, JavaScript, C++, PHP |
 | Web | HTML, CSS, Bootstrap |
-| Nuvem | WebRTC, Firebase |
+| Tempo real | WebRTC, Firebase |
 | Ferramentas | Git, GitHub Actions |
 
 ### Contato
